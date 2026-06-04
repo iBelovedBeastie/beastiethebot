@@ -1,0 +1,43 @@
+export const REACTION_ROLES: Record<string, string> = {
+  // Distros
+  "🏹": "arch-btw",
+  "🧬": "gentoo-chad",
+  "🕳️": "void-musl",
+  "🌀": "nix-reproducible",
+  "🎩": "fedora-spin",
+  "🟠": "debian-stable",
+  "🟡": "ubuntu-user",
+  "🗻": "opensuse-leap",
+  "⬜": "alpine-minimalist",
+  "⬛": "slackware-elder",
+  "👹": "bsd-daemon",
+  // Editors
+  "🧛": "vim-chad",
+  "🌌": "neovim-riced",
+  "🐄": "emacs-enjoyer",
+  "🔷": "vscode-normie",
+  "🪵": "nano-pleb",
+  "🔥": "helix-hipster",
+  "📜": "ed-ascetic",
+  // Shells
+  "🟢": "bash-scripter",
+  "🟣": "zsh-ohmyzer",
+  "🐟": "fish-enjoyer",
+  "🌊": "nushell-sigma",
+  // DE / WM
+  "🪟": "i3-gaps-user",
+  "💧": "hyprland-wayland",
+  "🌬️": "sway-tiler",
+  "🔵": "kde-plasma",
+  "🍩": "gnome-enjoyer",
+  "🍃": "xfce-lightweight",
+  "🪨": "dwm-patches",
+  // Hardware
+  "🚀": "steam-deck",
+  "💚": "nvidia-sufferer",
+  "🔴": "amd-enjoyer",
+  "🖥️": "thinkpad-owner",
+  "💡": "framework-user",
+  // Verify
+  "✅": "user",
+};
